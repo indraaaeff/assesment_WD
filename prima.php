@@ -18,4 +18,5 @@ function prima($n){
 }
 
 prima(5);
+
 ?>
